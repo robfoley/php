@@ -1,0 +1,16 @@
+h1 {
+	font-family: arial narrow;
+	text-align: center;
+}
+
+body {
+	text-align: center;
+	margin: 0px auto;
+	width: 800px;
+}
+
+P {
+	font-family: arial narrow;
+	font-variant: small-caps;
+}
+
